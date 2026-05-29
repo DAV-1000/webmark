@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Webmark.Infrastructure/Webmark.Infrastructure.csproj" Id="7200b239-ddb8-4c35-b489-256d2dea609e" />
+  <Project Path="src/Webmark.Modules/Webmark.Modules.csproj" Id="fa30a1c3-c708-47d5-9a69-46d8cad98a2f" />
+  <Project Path="tests/Webmark.Tests/Webmark.Tests.csproj" Id="6b88a77d-c0b6-4ea9-8569-aef87d75b990" />
+  <Project Path="src/Webmark.Web/Webmark.Web.csproj" />
+</Solution>
