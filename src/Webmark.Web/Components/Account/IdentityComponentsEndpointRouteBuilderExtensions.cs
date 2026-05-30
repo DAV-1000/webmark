@@ -9,7 +9,7 @@ using System.Security.Claims;
 using System.Text.Json;
 using Webmark.Web.Components.Account.Pages;
 using Webmark.Web.Components.Account.Pages.Manage;
-using Webmark.Web.Data;
+using Webmark.Infrastructure.Identity;
 
 namespace Microsoft.AspNetCore.Routing
 {

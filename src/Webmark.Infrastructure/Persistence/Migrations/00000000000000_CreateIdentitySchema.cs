@@ -3,7 +3,7 @@ using System;
 
 #nullable disable
 
-namespace Webmark.Web.Migrations
+namespace Webmark.Infrastructure.Persistence.Migrations
 {
     /// <inheritdoc />
     public partial class CreateIdentitySchema : Migration

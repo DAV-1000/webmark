@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Identity;
-using Webmark.Web.Data;
+using Webmark.Infrastructure.Identity;
 
 namespace Webmark.Web.Components.Account
 {
